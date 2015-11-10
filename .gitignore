@@ -1,0 +1,20 @@
+
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+.settings/*
+target/*
+/target/
+
+Middlemarch.*
+*.gz
+*.tagger
+*.ser
+dcoref/
