@@ -9,12 +9,13 @@
 *.war
 *.ear
 
-.settings/*
-target/*
+.settings/
 /target/
 
 Middlemarch.*
 *.gz
 *.tagger
 *.ser
-dcoref/
+*.tsv
+
+/src/main/resources/edu/stanford/nlp/models/dcoref/
